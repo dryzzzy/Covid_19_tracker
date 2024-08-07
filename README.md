@@ -10,11 +10,11 @@ Solution: covid_19_tracker.ipynb
 
 The dataset sourced from the Our World In Data organization's GitHub is a knowledge base of the coronavirus outbreak that began in 2020. For the purposes of this project, it was slightly modified - unnecessary columns were removed and columns with geographic coordinates were added. The collection consists of one file project_1_python.csv, in which you will find:
 
-iso_code - ISO code of the country
-continent - the continent on which the country lies
-location - the name of the country
-total_cases - the number of total incidence cases
-new_cases - the number of cases of disease on a given day
+#- iso_code - ISO code of the country
+#- continent - the continent on which the country lies
+#- location - the name of the country
+#- total_cases - the number of total incidence cases
+#- new_cases - the number of cases of disease on a given day
 total_deaths - number of deaths due to COVID-19
 new_deaths - number of deaths due to COVID-19 on a given day
 hosp_patients - number of hospitalized patients
